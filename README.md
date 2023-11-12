@@ -22,6 +22,9 @@
 
 ![](https://camo.githubusercontent.com/ffcbbe1dfca600112a808bb11b32f113ebd2bf315c976528d92c57cefcfb4262/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d616e7572616768617a72612673686f775f69636f6e733d74727565267468656d653d7261646963616c)
 
+[![Anurag's GitHub stats-Dark]([https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark#gh-dark-mode-only](https://github-readme-stats.vercel.app/api?username=azharul122&show_icons=true&locale=en))](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/azharul78582857" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="azharul78582857" height="30" width="40" /></a>
