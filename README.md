@@ -40,7 +40,7 @@
 <br/>
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=azharul122&show_icons=true&theme=ambient_gradient&layout=compact" alt="azharul122" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=azharul122&show_icons=true&theme=azharul_islam_gradient&layout=compact" alt="azharul122" /></p>
 
 <p>&nbsp;<img align="center" height=250 src="https://github-readme-stats.vercel.app/api/top-langs/?username=azharul122&exclude_repo=github-readme-stats,azharul122.github.io&theme=ambient_gradient" alt="azharul122" /></p>
 
