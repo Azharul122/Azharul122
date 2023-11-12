@@ -1,4 +1,6 @@
-### Hi there 👋
+![](https://media.licdn.com/dms/image/D5616AQGOgLponR1j0w/profile-displaybackgroundimage-shrink_350_1400/0/1696522987818?e=1705536000&v=beta&t=koPW36LJTrblfNj8-7GTFL5H6VKYKjSO0o5riKTbEMc)
+
+## Hi there 👋
 
 <h1 align="center">Hi 👋, I'm Azharul Islam</h1>
 <h3 align="center">A passionate MERN stack developer from Bangladesh</h3>
