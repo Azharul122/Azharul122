@@ -18,15 +18,6 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1HnjCwWxxxeXdi9251U52P0TyeeJP4qtS/view?usp=drive_link](https://drive.google.com/file/d/1HnjCwWxxxeXdi9251U52P0TyeeJP4qtS/view?usp=drive_link)
 
-<a href="https://github.com/azharul122/github-readme-stats#gh-dark-mode-only">
-  <img height=250 align="left" src="https://github-readme-stats.vercel.app/api?username=azharul122&show_icons=true&theme=dark#gh-dark-mode-only" />
-</a> 
-<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=azharul122&exclude_repo=github-readme-stats,azharul122.github.io&theme=dark#gh-dark-mode-only">
- &nbsp;<img height=250 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=azharul122&exclude_repo=github-readme-stats,azharul122.github.io&theme=dark#gh-dark-mode-only" />
-</a> 
-
-
-
 
 
 <h3 align="left">Connect with me:</h3>
@@ -48,4 +39,4 @@
  &nbsp;<img height=250 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=azharul122&exclude_repo=github-readme-stats,azharul122.github.io&theme=dark#gh-dark-mode-only" />
 </a> 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=azharul122&" alt="azharul122" /></p>
+<p><img align="center" style="margin-right: 10px;" src="https://github-readme-streak-stats.herokuapp.com/?user=azharul122&" alt="azharul122" /></p>
