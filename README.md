@@ -18,11 +18,11 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1HnjCwWxxxeXdi9251U52P0TyeeJP4qtS/view?usp=drive_link](https://drive.google.com/file/d/1HnjCwWxxxeXdi9251U52P0TyeeJP4qtS/view?usp=drive_link)
 
-[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=azharul122&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/azharul122/github-readme-stats#gh-dark-mode-only)  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=azharul122&exclude_repo=github-readme-stats,azharul122.github.io&theme=dark#gh-dark-mode-only)
-
 <a href="https://github.com/azharul122/github-readme-stats#gh-dark-mode-only">
   <img height=300 align="center" src="https://github-readme-stats.vercel.app/api?username=azharul122&show_icons=true&theme=dark#gh-dark-mode-only" />
-</a>
+</a> ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=azharul122&exclude_repo=github-readme-stats,azharul122.github.io&theme=dark#gh-dark-mode-only)
+
+
 
 
 <h3 align="left">Connect with me:</h3>
