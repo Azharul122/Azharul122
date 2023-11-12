@@ -3,9 +3,6 @@
 <h1 align="center">Hi 👋, I'm Azharul Islam</h1>
 <h3 align="center">A passionate MERN stack developer from Bangladesh</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=azharul122&label=Profile%20views&color=0e75b6&style=flat" alt="azharul122" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=azharul122" alt="azharul122" /></a> </p>
 
 - 🔭 I’m currently working on [Elearner-(A spoken english website)](https://spoken-english-65d22.web.app/)
 
