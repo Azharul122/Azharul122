@@ -20,7 +20,12 @@
 
 <a href="https://github.com/azharul122/github-readme-stats#gh-dark-mode-only">
   <img height=300 align="center" src="https://github-readme-stats.vercel.app/api?username=azharul122&show_icons=true&theme=dark#gh-dark-mode-only" />
-</a> ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=azharul122&exclude_repo=github-readme-stats,azharul122.github.io&theme=dark#gh-dark-mode-only)
+</a> 
+<a href="https://github.com/azharul122/github-readme-stats#gh-dark-mode-only">
+  <img height=300 align="center" src="https://github-readme-stats.vercel.app/api?username=azharul122&show_icons=true&theme=dark#gh-dark-mode-only" />
+</a> 
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=azharul122&exclude_repo=github-readme-stats,azharul122.github.io&theme=dark#gh-dark-mode-only)
 
 
 
