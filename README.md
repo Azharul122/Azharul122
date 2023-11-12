@@ -18,11 +18,7 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1HnjCwWxxxeXdi9251U52P0TyeeJP4qtS/view?usp=drive_link](https://drive.google.com/file/d/1HnjCwWxxxeXdi9251U52P0TyeeJP4qtS/view?usp=drive_link)
 
-![](https://camo.githubusercontent.com/fbf4f4aadb79493225ed43d6daca84015eafa94d496ef07bbf723200e12f923c/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d616e7572616768617a7261)
-
-![](https://camo.githubusercontent.com/ffcbbe1dfca600112a808bb11b32f113ebd2bf315c976528d92c57cefcfb4262/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d616e7572616768617a72612673686f775f69636f6e733d74727565267468656d653d7261646963616c)
-
-[![Anurag's GitHub stats-Dark]([https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark#gh-dark-mode-only](https://github-readme-stats.vercel.app/api?username=azharul122&show_icons=true&locale=en))](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=azharul122&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/azharul122/github-readme-stats#gh-dark-mode-only)
 
 
 <h3 align="left">Connect with me:</h3>
