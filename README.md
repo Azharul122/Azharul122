@@ -14,7 +14,7 @@
 
 - 🤝 I’m looking for help with [WhatsApp | Imo](+8801790512524)
 
-- 👨‍💻 All of my projects are available at (https://next-portfolio-alpha-sage-73.vercel.app/)
+- 👨‍💻 All of my projects are available at (https://next-portfolio-alpha-sage-73.vercel.app/projects)
 
 - 📫 How to reach me **azharulip@gmail.com**
 
