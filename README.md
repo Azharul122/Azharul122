@@ -3,12 +3,12 @@
 ## Hi there 👋
 
 <h1 align="center">Hi 👋, I'm Azharul Islam</h1>
-<h3 align="center">A passionate MERN stack developer from Bangladesh</h3>
+<h3 align="center">A passionate Frpnt-end developer from Bangladesh</h3>
 
 
 - 🔭 I’m currently working on [Job portal](https://next-job-portal-murex.vercel.app/)
 
-- 🌱 I’m currently learning **Typescript, NextJS ,Redux**
+- 🌱 I’m currently learning **GSAP, Three.js**
 
 - 👯 I’m looking to collaborate on **github**
 
